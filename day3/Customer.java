@@ -5,18 +5,13 @@ public class Customer {
 	private long phno;
 	private String feedback;
 	public Customer() {
-	
 	}
-	
 	public Customer(String name,long phno,String feedback){
 		this.name=name;
 		this.phno=phno;
 		this.feedback=feedback;
 	}
-
-	
-
-	public String getName() {
+public String getName() {
 		return name;
 	}
 

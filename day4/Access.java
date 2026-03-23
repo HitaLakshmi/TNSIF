@@ -1,7 +1,5 @@
 // program to demonstrate package and access modifiers
 package com.tnsif.day4;
-
-
 public class Access {
 
 	// Declare default, public, protected and private

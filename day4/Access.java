@@ -11,6 +11,7 @@ public class Access {
 	private int varpriv=40;
 	
 	// declare methods 
+	// access modifiers 
 	void def() {
 		System.out.print("Default variable : ");
 		System.out.println(vardef);

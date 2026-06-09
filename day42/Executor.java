@@ -6,7 +6,5 @@ public class Executor {
 	Access a=new Access();
 	a.varpub=1000;
 	a.pub();
-	
-	
 	}
 }

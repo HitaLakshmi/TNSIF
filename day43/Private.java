@@ -6,7 +6,7 @@ public class Private {
 		
 	MyClass my=new MyClass();
 	//my.getClass();
-	
+	//
 	}
 
 }
